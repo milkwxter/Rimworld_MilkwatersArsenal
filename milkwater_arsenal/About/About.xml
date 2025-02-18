@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Milkwater's Arsenal</name>
+	<author>Milkwater</author>
+	<description>Adds weapons to your game.</description>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<packageId>Milkwater.Arsenal</packageId>
+</ModMetaData>

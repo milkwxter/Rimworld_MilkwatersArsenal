@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+	<!--=============== Paltik ====================-->
+    <SoundDef>
+        <defName>Milkwater_Shot_Paltik</defName>
+        <context>MapOnly</context>
+        <eventNames/>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Weapons/m_paltik_shot</clipPath>
+                    </li>
+                </grains>
+                <volumeRange>
+                    <min>35</min>
+                    <max>40</max>
+                </volumeRange>
+                <pitchRange>
+                    <min>1.2</min>
+                    <max>1.25</max>
+                </pitchRange>
+                <sustainLoop>False</sustainLoop>
+            </li>
+        </subSounds>
+    </SoundDef>
+	
+	<!--=============== Lantaka ====================-->
+    <SoundDef>
+        <defName>Milkwater_Shot_Lantaka</defName>
+        <context>MapOnly</context>
+        <eventNames/>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Weapons/m_lantaka_shot</clipPath>
+                    </li>
+                </grains>
+                <volumeRange>
+                    <min>35</min>
+                    <max>40</max>
+                </volumeRange>
+                <pitchRange>
+                    <min>1.2</min>
+                    <max>1.25</max>
+                </pitchRange>
+                <sustainLoop>False</sustainLoop>
+            </li>
+        </subSounds>
+    </SoundDef>
+	
+	<!--=============== Crossbow ====================-->
+    <SoundDef>
+        <defName>Milkwater_Shot_Crossbow</defName>
+        <context>MapOnly</context>
+        <eventNames/>
+        <maxSimultaneous>1</maxSimultaneous>
+        <subSounds>
+            <li>
+                <grains>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Weapons/m_crossbow_shot</clipPath>
+                    </li>
+                </grains>
+                <volumeRange>
+                    <min>35</min>
+                    <max>40</max>
+                </volumeRange>
+                <pitchRange>
+                    <min>1.2</min>
+                    <max>1.25</max>
+                </pitchRange>
+                <sustainLoop>False</sustainLoop>
+            </li>
+        </subSounds>
+    </SoundDef>
+</Defs>
